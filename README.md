@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hossein9473
 - 👀 I’m interested in new challenges
-- 🌱 I’m currently working on Django and Next.js
 - 📫 You can reach me on LinkedIn: www.linkedin.com/in/safari-hossein
 
 <!---
